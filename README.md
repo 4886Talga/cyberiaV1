@@ -5,7 +5,7 @@
 
 ##### Schoolproject in HTML5 and CSS3.
 
- ##### CyberiaV1(without using frameworks and libraries) is published at:<https://4886talga.github.io/cyberia/>
+ ##### CyberiaV1(without using frameworks and libraries) is published at:https://4886talga.github.io/cyberiaV1/
  
  ##### CyberiaV2(Bootstrap) is published at:<https://4886talga.github.io/cyberiaV2/>
  
