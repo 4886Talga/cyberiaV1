@@ -7,7 +7,7 @@
 
  ##### CyberiaV1(without using frameworks and libraries) is published at:https://4886talga.github.io/cyberiaV1/
  
- ##### CyberiaV2(Bootstrap) is published at:<https://4886talga.github.io/cyberiaV2/>
+ ##### CyberiaV2(Bootstrap) is published at:<https://4886talga.github.io/cyberiaV1/>
  
  ##### GitHub Repo: <https://github.com/4886Talga/HTML5-CSS3-Project>
  
